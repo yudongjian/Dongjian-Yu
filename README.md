@@ -21,7 +21,7 @@
 ## NutriGNN: Graph-based Nutrient Relationship Modeling for Food Nutrition Estimation
 
 - **目标会议：** TMM 2026
-- **当前状态：** 审稿中
+- **当前状态：** 投稿中
 
 
 ---
@@ -34,7 +34,7 @@
 ## Cutting-edge Research in AI-driven Food Formulation Design
 
 - **投稿期刊：** Comprehensive Reviews in Food Science and Food Safety (**CRFSFS**)
-- **当前状态：** 审稿中
+- **当前状态：** 投稿中
 - **论文类型：** 综述论文
 
 
