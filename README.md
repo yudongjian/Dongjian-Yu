@@ -42,8 +42,7 @@
 ### OmniFood8K: Single-Image Nutrition Estimation via Hierarchical Frequency-Aligned Fusion
 
 - **会议：** IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR 2026 CCF A**)
-- **状态：** 已录用，**Highlight Paper**
-- **作者身份：** 第一作者
+- **状态：** 已录用，**Highlight Paper**  **一作**
 
 
 ---
