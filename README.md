@@ -41,7 +41,7 @@
 
 ### OmniFood8K: Single-Image Nutrition Estimation via Hierarchical Frequency-Aligned Fusion
 
-- **会议：** IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR 2026**)
+- **会议：** IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR 2026 CCF A**)
 - **状态：** 已录用，**Highlight Paper**
 - **作者身份：** 第一作者
 
@@ -52,20 +52,20 @@
 
 ### Food3D: Text-Driven Customizable 3D Food Generation With Gaussian Splatting
 
-- **期刊：** IEEE Transactions on Image Processing (**IEEE TIP 2025 **) **一作**
+- **期刊：** IEEE Transactions on Image Processing (**IEEE TIP 2025 CCF A**) **一作**
 
 ---
 
 ### Spatial-Aware Multi-Modal Information Fusion for Food Nutrition Estimation
 
-- **会议：** ACM International Conference on Multimedia (**ACM MM 2025**) **一作**
+- **会议：** ACM International Conference on Multimedia (**ACM MM 2025 CCF A**) **一作**
 
 
 ---
 
 ### Diverse and High-Quality Food Image Generation from Only Food Names
 
-- **期刊：** ACM Transactions on Multimedia Computing, Communications, and Applications (**ACM TOMM 2025**) **一作**
+- **期刊：** ACM Transactions on Multimedia Computing, Communications, and Applications (**ACM TOMM 2025 CCF B**) **一作**
 
 
 
