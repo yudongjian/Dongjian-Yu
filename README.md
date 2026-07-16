@@ -20,22 +20,19 @@
 
 ## NutriGNN: Graph-based Nutrient Relationship Modeling for Food Nutrition Estimation
 
-- **目标会议：** TMM 2026
-- **当前状态：** 投稿中
+- **目标会议：** TMM 2026  **当前状态：** 投稿中
 
 
 ---
 
 ## Uni-Nutri: A Unified Framework for Food Nutrition Estimation across Arbitrary RGB-Anchored Modality Combinations
 
-- **目标会议：** AAAI 2027
-- **当前状态：** 投稿中
+- **目标会议：** AAAI 2027      **当前状态：** 投稿中
 
 ## Cutting-edge Research in AI-driven Food Formulation Design
 
 - **投稿期刊：** Comprehensive Reviews in Food Science and Food Safety (**CRFSFS**)
-- **当前状态：** 投稿中
-- **论文类型：** 综述论文
+- **当前状态：** 投稿中 **论文类型：** 综述论文
 
 
 # 📚 论文时间线
@@ -55,24 +52,20 @@
 
 ### Food3D: Text-Driven Customizable 3D Food Generation With Gaussian Splatting
 
-- **期刊：** IEEE Transactions on Image Processing (**IEEE TIP 2025 **)
-- **作者身份：** 第一作者
+- **期刊：** IEEE Transactions on Image Processing (**IEEE TIP 2025 **) **一作**
 
 ---
 
 ### Spatial-Aware Multi-Modal Information Fusion for Food Nutrition Estimation
 
-- **会议：** ACM International Conference on Multimedia (**ACM MM 2025**)
-- **作者身份：** 第一作者
+- **会议：** ACM International Conference on Multimedia (**ACM MM 2025**) **一作**
 
 
 ---
 
 ### Diverse and High-Quality Food Image Generation from Only Food Names
 
-- **期刊：** ACM Transactions on Multimedia Computing, Communications, and Applications (**ACM TOMM 2025**)
-- **作者身份：** 第一作者
-- **关键词：** 食品图像生成、文本到图像生成、食品名称建模
+- **期刊：** ACM Transactions on Multimedia Computing, Communications, and Applications (**ACM TOMM 2025**) **一作**
 
 
 
