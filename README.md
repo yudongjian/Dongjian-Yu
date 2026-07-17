@@ -7,7 +7,7 @@
 
 ### 食品计算 · 多模态学习 · 计算机视觉
 
-我的研究主要围绕**食品营养估计、食品图像理解、多模态学习和三维食品生成**展开，以第一作者身份发表多篇论文，包含**CVPR (Highlight) , IEEE TIP, ACM MM, ACM TOMM**, 致力于利用人工智能技术连接食物图像、深度信息、食材组成、烹饪过程与营养属性。
+我的研究主要围绕**食品营养估计、食品图像理解、多模态学习和三维食品生成**展开，以第一作者身份发表多篇论文，包含**CVPR, IEEE TIP, ACM MM, ACM TOMM**, 致力于利用人工智能技术连接食物图像、深度信息、食材组成、烹饪过程与营养属性。
 
 [![Email](https://img.shields.io/badge/Email-联系我-informational?style=flat-square&logo=gmail)](mailto:YOUR_EMAIL)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-学术主页-blue?style=flat-square&logo=googlescholar)](YOUR_GOOGLE_SCHOLAR_URL)
