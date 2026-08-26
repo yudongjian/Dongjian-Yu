@@ -8,6 +8,20 @@ I am interested in **Food Computing**, with a particular focus on
 **food nutrition estimation, multimodal learning, food image understanding,
 and 3D food generation**.
 
+
+
+# Dongjian Yu | 余东建 👋
+### 多模态学习 · 食品计算 · 计算机视觉
+
+</div>
+
+目前就读于四川大学，攻读博士学位，导师为王艳教授。此前于云南大学攻读硕士学位，导师为金鑫副教授。
+
+我的研究主要围绕食品计算（Food Computing）展开，重点关注食品营养估计、食品图像理解、多模态学习和三维食品生成等方向，致力于利用人工智能技术连接食物图像、深度信息、食材组成、三维结构与营养属性。
+
+以第一作者身份发表多篇论文，包含 CVPR、IEEE TIP、ACM MM、ACM TOMM 等会议和期刊
+
+
 My research aims to connect visual information with food ingredients,
 3D structure, and nutritional attributes through artificial intelligence.
 
