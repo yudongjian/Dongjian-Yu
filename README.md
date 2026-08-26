@@ -34,7 +34,7 @@ My research aims to connect visual information with food ingredients,
 
 🏆 **Highlight Paper**
 
-[Paper](PAPER_URL) · [Project](PROJECT_URL) · [Code](CODE_URL) · [Dataset](DATASET_URL)
+[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Yu_OmniFood8K_Single-Image_Nutrition_Estimation_via_Hierarchical_Frequency-Aligned_Fusion_CVPR_2026_paper.html) · [Project](https://yudongjian.github.io/OmniFood8K-food/) ·
 
 ---
 
@@ -46,7 +46,7 @@ My research aims to connect visual information with food ingredients,
 
 **IEEE Transactions on Image Processing (TIP), 2025**
 
-[Paper](PAPER_URL) · [Project](PROJECT_URL) · [Code](CODE_URL)
+[Project](https://yudongjian.github.io/Food3D/) · [Code](https://yudongjian.github.io/Food3D/)
 
 ---
 
@@ -56,7 +56,7 @@ My research aims to connect visual information with food ingredients,
 
 **ACM International Conference on Multimedia (ACM MM), 2025**
 
-[Paper](PAPER_URL) · [Code](CODE_URL)
+[Code](https://github.com/yudongjian/Nutrition)
 
 ---
 
@@ -66,7 +66,7 @@ My research aims to connect visual information with food ingredients,
 
 **ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2025**
 
-[Paper](PAPER_URL) · [Code](CODE_URL)
+[Code](https://github.com/yudongjian/CW-Food)
 
 ---
 
