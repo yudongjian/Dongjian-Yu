@@ -16,10 +16,7 @@
 My research aims to connect visual information with food ingredients,
 3D structure, and nutritional attributes through artificial intelligence.
 
-[![Email](https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail)](mailto:YOUR_EMAIL)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=flat-square&logo=googlescholar)](YOUR_GOOGLE_SCHOLAR_URL)
-[![ORCID](https://img.shields.io/badge/ORCID-Profile-green?style=flat-square&logo=orcid)](YOUR_ORCID_URL)
-[![Homepage](https://img.shields.io/badge/Homepage-Website-success?style=flat-square&logo=googlechrome)](YOUR_HOMEPAGE_URL)
+[![Email](https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail)](mailto:yudongjian@stu.ynu.edu.cn)
 
 </div>
 
