@@ -1,48 +1,38 @@
-# dongjian-yu
-
-
 <div align="center">
 
-# 你好，我是余东建 👋
+# Dongjian Yu | 余东建 👋
 
-### 食品计算 · 多模态学习 · 计算机视觉
+### Food Computing · Multimodal Learning · Computer Vision
 
-我的研究主要围绕**食品营养估计、食品图像理解、多模态学习和三维食品生成**展开，以第一作者身份发表多篇论文，包含**CVPR, IEEE TIP, ACM MM, ACM TOMM**, 致力于利用人工智能技术连接食物图像、深度信息、食材组成、烹饪过程与营养属性。
+I am interested in **Food Computing**, with a particular focus on
+**food nutrition estimation, multimodal learning, food image understanding,
+and 3D food generation**.
 
-[![Email](https://img.shields.io/badge/Email-联系我-informational?style=flat-square&logo=gmail)](mailto:YOUR_EMAIL)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-学术主页-blue?style=flat-square&logo=googlescholar)](YOUR_GOOGLE_SCHOLAR_URL)
-[![Homepage](https://img.shields.io/badge/Homepage-个人主页-success?style=flat-square&logo=googlechrome)](YOUR_HOMEPAGE_URL)
+My research aims to connect visual information with food ingredients,
+3D structure, and nutritional attributes through artificial intelligence.
+
+[![Email](https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail)](mailto:YOUR_EMAIL)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=flat-square&logo=googlescholar)](YOUR_GOOGLE_SCHOLAR_URL)
+[![ORCID](https://img.shields.io/badge/ORCID-Profile-green?style=flat-square&logo=orcid)](YOUR_ORCID_URL)
+[![Homepage](https://img.shields.io/badge/Homepage-Website-success?style=flat-square&logo=googlechrome)](YOUR_HOMEPAGE_URL)
 
 </div>
 
 ---
-# 📝 当前投稿与在研工作
 
-## NutriGNN: Graph-based Nutrient Relationship Modeling for Food Nutrition Estimation
-
-- **目标会议：** TMM 2026  **当前状态：** 投稿中
-
-
----
-
-## Uni-Nutri: A Unified Framework for Food Nutrition Estimation across Arbitrary RGB-Anchored Modality Combinations
-
-- **目标会议：** AAAI 2027      **当前状态：** 投稿中
-
-## Cutting-edge Research in AI-driven Food Formulation Design
-
-- **投稿期刊：** Comprehensive Reviews in Food Science and Food Safety (**CRFSFS**)
-- **当前状态：** 投稿中 **论文类型：** 综述论文
-
-
-# 📚 论文时间线
+# 📚 Publications
 
 ## 2026
 
 ### OmniFood8K: Single-Image Nutrition Estimation via Hierarchical Frequency-Aligned Fusion
 
-- **会议：** IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR 2026 CCF A**) **Highlight Paper**  **一作**
+**Dongjian Yu**, Weiqing Min, Qian Jiang, Xing Lin, Xin Jin, Shuqiang Jiang
 
+**IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026**
+
+🏆 **Highlight Paper**
+
+[Paper](PAPER_URL) · [Project](PROJECT_URL) · [Code](CODE_URL) · [Dataset](DATASET_URL)
 
 ---
 
@@ -50,40 +40,59 @@
 
 ### Food3D: Text-Driven Customizable 3D Food Generation With Gaussian Splatting
 
-- **期刊：** IEEE Transactions on Image Processing (**IEEE TIP 2025 CCF A**) **一作**
+**Dongjian Yu**, Weiqing Min, Xin Jin, Qian Jiang, Shaowen Yao, Shuqiang Jiang
+
+**IEEE Transactions on Image Processing (TIP), 2025**
+
+[Paper](PAPER_URL) · [Project](PROJECT_URL) · [Code](CODE_URL)
 
 ---
 
 ### Spatial-Aware Multi-Modal Information Fusion for Food Nutrition Estimation
 
-- **会议：** ACM International Conference on Multimedia (**ACM MM 2025 CCF A**) **一作**
+**Dongjian Yu**, Weiqing Min, Xin Jin, Qian Jiang, Shuqiang Jiang
 
+**ACM International Conference on Multimedia (ACM MM), 2025**
+
+[Paper](PAPER_URL) · [Code](CODE_URL)
 
 ---
 
 ### Diverse and High-Quality Food Image Generation from Only Food Names
 
-- **期刊：** ACM Transactions on Multimedia Computing, Communications, and Applications (**ACM TOMM 2025 CCF B**) **一作**
+**Dongjian Yu**, Weiqing Min, Xin Jin, Qian Jiang, Ying Jin, Shuqiang Jiang
 
+**ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2025**
 
+[Paper](PAPER_URL) · [Code](CODE_URL)
 
-# 🤝 学术交流
+---
 
-欢迎围绕以下方向进行交流与合作：
+# 🔬 Research Interests
 
-- 食品图像理解与生成
-- 食品营养估计
-- RGB-D 与三维食品分析
-- 多模态与缺失模态学习
-- 食品视觉语言模型
-- 食品数据集与评测基准
-- 人工智能与营养健康
+- 🍎 Food Computing
+- 🥗 Food Nutrition Estimation
+- 👁️ Food Image Understanding
+- 🔀 Multimodal Learning
+- 📷 RGB-D and 3D Food Analysis
+- 🎨 Food Image and 3D Generation
+- 🤖 Multimodal Large Language Models for Food
+- 📊 Food Datasets and Benchmarks
+
+---
+
+# 🤝 Collaboration
+
+I am always interested in discussions and collaborations related to
+**Food Computing, Computer Vision, Multimodal Learning, and AI for Nutrition and Health**.
+
+Feel free to reach out via email.
 
 ---
 
 <div align="center">
 
-### 感谢访问我的 GitHub 主页！
+### Thanks for visiting! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square)
 
